@@ -1,0 +1,9 @@
+[submodule "third_party/wireguard-windows"]
+	path = third_party/wireguard-windows
+	url = https://git.zx2c4.com/wireguard-windows
+[submodule "third_party/wireguard-linux"]
+	path = third_party/wireguard-linux
+	url = https://git.zx2c4.com/wireguard-tools
+[submodule "third_party/wireguard-macos"]
+	path = third_party/wireguard-macos
+	url = https://git.zx2c4.com/wireguard-apple

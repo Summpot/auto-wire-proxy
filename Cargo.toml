@@ -1,0 +1,12 @@
+[package]
+name = "auto-wire-proxy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.169"
+net-route = "0.4.5"
+network-interface = "2.0.0"
+
+[build-dependencies]
+cc = "1.2.6"
