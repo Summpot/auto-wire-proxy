@@ -7,3 +7,6 @@
 [submodule "third_party/wireguard-macos"]
 	path = third_party/wireguard-macos
 	url = https://git.zx2c4.com/wireguard-apple
+[submodule "third_party/wireguard-nt"]
+	path = third_party/wireguard-nt
+	url = https://git.zx2c4.com/wireguard-nt
